@@ -8,4 +8,4 @@ github_username:  greggelong
 
 # Build settings
 markdown: kramdown
-theme: hpstr
+theme: minima
