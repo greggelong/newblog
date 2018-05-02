@@ -1,0 +1,11 @@
+# basic options  this is yaml not markdown
+title: Some Thoughts on ink and code
+author: Greg Kreisman
+email: gkreisman_cep@qq.com
+description: Learning about code and github
+twitter_username: n/a
+github_username:  greggelong
+
+# Build settings
+markdown: kramdown
+theme: minima
