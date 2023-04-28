@@ -7,6 +7,6 @@ twitter_username: n/a
 github_username:  greggelong
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 #theme: no-style-please
 remote_theme: riggraz/no-style-please
