@@ -3,14 +3,9 @@ layout: page
 title: About
 ---
 
-This is an about page about learning markdown and yamal to make websites
-Hope you love it!
+Greg Kreisman
+Gregory Kreisman
+Gregory Kent Kreisman
 
-Reasons:
-- its great.
-- its a test.
-- its fun
+https://greggelong.github.io
 
-## Other thoughts
-
-This is great.
