@@ -8,4 +8,5 @@ github_username:  greggelong
 
 # Build settings
 # markdown: kramdown
-# theme: minima
+#theme: no-style-please
+remote_theme: riggraz/no-style-please
